@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  mode: 'development', // or 'production' depending on your needs
+
   entry: './src/main.js',
   output: {
     filename: 'packed.js',
