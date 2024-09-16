@@ -1,2 +1,1 @@
-# testsnapchat
- 
+# camera_kit_demo
